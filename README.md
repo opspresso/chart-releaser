@@ -12,5 +12,5 @@ docker pull opspresso/chart-releaser
 ## version
 
 ```
-ENV VERSION 0.1.4
+ENV VERSION 0.2.0
 ```
